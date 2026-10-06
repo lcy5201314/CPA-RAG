@@ -25,7 +25,5 @@ If you find this work useful, please cite our paper:
   volume = {334},
   pages = {134465},
   year = {2027},
-  issn = {0957-4174},
-  doi = {https://doi.org/10.1016/j.eswa.2026.134465},
-  url = {https://www.sciencedirect.com/science/article/pii/S0957417426033695}
+  issn = {0957-4174}
 }
