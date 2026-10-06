@@ -18,9 +18,14 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @article{li2026cparag,
-  title={CPA-RAG: Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models},
-  author={Li, Chunyang and Zhang, Junwei and Cheng, Anda and Ma, Zhuo and Li, Xinghua and Ma, Jianfeng},
+  title={Cpa-rag: Covert poisoning attacks on retrieval-augmented generation in large language models},
+  author={Li, Chunyang and Zhang, Junwei and Ma, Zhuo and Cheng, Anda and Liu, Yang and Li, Xinghua and Ma, Jianfeng},
   journal={Expert Systems with Applications},
-  year={2026},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  volume = {334},
+  pages = {134465},
+  year = {2027},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2026.134465},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417426033695}
 }
